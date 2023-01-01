@@ -40,4 +40,4 @@ Backend mock server:
 
 ## Design:
 
-![alt text](https://github.com/MuhammadMoftah]/events-task/blob/[branch]/events.jpeg?raw=true)
+![My Image](events.jpeg)
